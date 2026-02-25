@@ -1,1 +1,12 @@
-**/~#*.docx
+# temp files
+~$*.docx
+~$*.doc
+*.tmp
+*.temp
+~$*.xlsx
+~$*.pptx
+
+# py cache
+__pycache__/
+*.py[codz]
+*$py.class
